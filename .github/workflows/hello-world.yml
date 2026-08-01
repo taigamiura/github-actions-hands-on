@@ -13,5 +13,5 @@ jobs:
       contents: read
 
     steps:
-      - uses: actions/checkout@v7
-      - run: cat README.md
+      - uses: taigamiura/github-actions-hanson@main
+   
