@@ -13,5 +13,5 @@ jobs:
       contents: read
 
     steps:
-      - uses: taigamiura/github-actions-hanson@main
+      - uses: taigamiura/github-actions-hands-on@main
    
