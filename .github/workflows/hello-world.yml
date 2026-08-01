@@ -13,5 +13,5 @@ jobs:
       contents: read
 
     steps:
-      - run: echo "GitHub Actions"
-      - run: echo date
+      - uses: actions/checkout@7
+      - run: cat README.md
